@@ -1,0 +1,10 @@
+#img-div {
+  display: block;
+  margin: auto;
+}
+
+img {
+  display: block;
+  margin: auto;
+  max-width: 100%;
+}
